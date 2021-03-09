@@ -1,5 +1,3 @@
-// Sudah bisa
-
 import java.io.*;
 public class ReadConsole {
     public static void main(String args[]) throws IOException {
